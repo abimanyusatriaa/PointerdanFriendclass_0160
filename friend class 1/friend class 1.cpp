@@ -36,5 +36,6 @@ int main()
     joko_siswa.setId(1);
     joko_siswa.displayALL(joko);
     return 0;
+
 }
 
