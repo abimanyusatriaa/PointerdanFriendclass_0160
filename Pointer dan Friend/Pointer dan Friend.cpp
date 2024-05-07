@@ -23,8 +23,8 @@ int main() {
     pMhs->nim = 3;
     pMhs->showNim();
     return 0;
-
 }
+
 
    
 
